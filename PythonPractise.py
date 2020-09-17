@@ -103,6 +103,8 @@
 #else:
 #        print(number, "is not a prime no")
 
+# Learned something new today and slowly slowly going to understand more :)
+
 import random
 print("This is a simple dice game which randomly prints the numbers")
 number = "y"
