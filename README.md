@@ -10,4 +10,5 @@ Day 1: 4 codechef questions completed.
 Day 2: Array 
 Day 3: OFF
 Day 4: Codechef and STL Vectors intro
+Day 5: Vectors
 
