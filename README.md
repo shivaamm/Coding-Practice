@@ -11,4 +11,5 @@ Day 2: Array
 Day 3: OFF
 Day 4: Codechef and STL Vectors intro
 Day 5: Vectors
+Day 6: Vactors videos and explanation.
 
