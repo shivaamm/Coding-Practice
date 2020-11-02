@@ -12,4 +12,6 @@ Day 3: OFF
 Day 4: Codechef and STL Vectors intro
 Day 5: Vectors
 Day 6: Vactors videos and explanation.
+Day 7: Break
+Day 8: Practiced Coding questions problem solving
 
