@@ -15,3 +15,4 @@ Day 6: Vactors videos and explanation.
 Day 7: Break
 Day 8: Practiced Coding questions problem solving
 Day 9: Coding Questions practice(problem solving)
+Day 10: Vectors problem
