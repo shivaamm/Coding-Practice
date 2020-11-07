@@ -17,3 +17,4 @@ Day 8: Practiced Coding questions problem solving
 Day 9: Coding Questions practice(problem solving)
 Day 10: Vectors problem
 Day 11: Explored Stacks
+Day 12-13: Stacks using arrays [break time] .'. Hackathon time 
