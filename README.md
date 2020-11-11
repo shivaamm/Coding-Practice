@@ -32,3 +32,4 @@ Day 12-13: Stacks using arrays [break time] .'. Hackathon time
 
 Day 14: BREAK!!!!!! .................Hackathon finished
 
+Day 15: Vectors and Templates
