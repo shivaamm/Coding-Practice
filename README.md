@@ -4,7 +4,7 @@ Learning python by practicing programs in spyder
 Soon DS questions will be added to practice.
 
 # 100DaysOfCode 
-This will be the repository for C++ topic wise questions and codechef practice questions :)
+This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
 Day 1: 4 codechef questions completed.
 
@@ -33,3 +33,5 @@ Day 12-13: Stacks using arrays [break time] .'. Hackathon time
 Day 14: BREAK!!!!!! .................Hackathon finished
 
 Day 15: Vectors and Templates
+
+Day 16: Linked List & Stacks Basic implementation using c++
