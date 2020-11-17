@@ -44,3 +44,6 @@ Vectors Hackerrank
 
 Day 19:
 Hackerrank problems
+
+Day 20:
+Vectors and linked list
