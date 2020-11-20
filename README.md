@@ -34,9 +34,6 @@ Day 14: BREAK!!!!!! .................Hackathon finished
 
 Day 15: Vectors and Templates
 
-Day 16:
-Hackerearth coding contest challenge
-
 Day 16: Linked List & Stacks Basic implementation using c++
 
 Day 17:Linked List 
@@ -50,3 +47,6 @@ Hackerrank problems
 
 Day 20:
 Vectors and linked list
+
+Day 21:
+Hackerearth coding contest challenge
