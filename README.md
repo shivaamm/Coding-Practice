@@ -50,3 +50,6 @@ Vectors and linked list
 
 Day 21:
 Hackerearth coding contest challenge
+
+Day 22:
+Earned 5 star on hackerrank C++ badge
