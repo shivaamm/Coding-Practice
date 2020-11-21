@@ -53,3 +53,6 @@ Hackerearth coding contest challenge
 
 Day 22:
 Earned 5 star on hackerrank C++ badge
+
+Day 23:
+Hackerrank contest and problem solving
