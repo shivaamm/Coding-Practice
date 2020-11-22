@@ -56,3 +56,6 @@ Earned 5 star on hackerrank C++ badge
 
 Day 23:
 Hackerrank contest and problem solving
+
+Day 24:
+Vectors Practice with leetcode questions
