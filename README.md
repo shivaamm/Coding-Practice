@@ -1,4 +1,4 @@
-# Python-Programs
+## Python-Programs
 Learning python by practicing programs in spyder
 
 Soon DS questions will be added to practice.
@@ -61,4 +61,4 @@ Day 24:
 Vectors Practice with leetcode questions
 
 Day 25:
-Leetcode questions( used vectors bool and stack)
+Leetcode questions( used vectors bool and stack and started using in functions)
