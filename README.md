@@ -71,4 +71,4 @@ Day 27:
 Leetcode questions (9 done)(Remove dupliates using unique)  Done 12 questions :)
 
 Day 28:
-Leetcode climbing question, sinlge number(Using XOR ques) learnt new approach [Done 14 questions]
+Leetcode climbing question, sinlge number(Using XOR ques) learnt new approach [Done 15 questions]
