@@ -74,4 +74,4 @@ Day 28:
 Leetcode climbing question, sinlge number(Using XOR ques) learnt new approach [Done 15 questions]
 
 Day 29:
-Leetcode 17 questions done. Finally completed 1% on leetcode ;)
+Leetcode 17 questions done. Finally completed 1% on leetcode ;)     Learning days (Done 19)
