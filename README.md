@@ -16,7 +16,7 @@ Day 4: Codechef and STL Vectors intro
 
 Day 5: Vectors
 
-Day 6: Vactors videos and explanation.
+Day 6: Vectors videos and explanation.
 
 Day 7: Break
 
@@ -37,7 +37,7 @@ Day 15: Vectors and Templates
 Day 16: Linked List & Stacks Basic implementation using c++
 
 Day 17:Linked List 
-(******DIWALI******)
+# (******DIWALI******)
 
 Day 18:
 Vectors Hackerrank
