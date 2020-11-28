@@ -36,8 +36,7 @@ Day 15: Vectors and Templates
 
 Day 16: Linked List & Stacks Basic implementation using c++
 
-Day 17:Linked List 
-# (******DIWALI******)
+Day 17:Linked List  (******DIWALI******)
 
 Day 18:
 Vectors Hackerrank
@@ -77,4 +76,4 @@ Day 29:
 Leetcode 17 questions done. Finally (Done 22) completed 1.32% :)
 
 Day 30:
-Leetcode 23 questiona done ((((break time))))
+Leetcode 23 questions done ((((break time))))
