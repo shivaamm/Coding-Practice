@@ -77,3 +77,6 @@ Leetcode 17 questions done. Finally (Done 22) completed 1.32% :)
 
 Day 30:
 Leetcode 23 questions done ((((break time))))
+
+Day 31:
+Stacks and Linked list understanding using stl (using stl reduces the lines of code and makes it easy to understand the code)
