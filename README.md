@@ -80,3 +80,6 @@ Leetcode 23 questions done ((((break time))))
 
 Day 31:
 Stacks and Linked list understanding using stl (using stl reduces the lines of code and makes it easy to understand the code)
+
+Day 32:
+Implementation of LL and stacks in Dev c++
