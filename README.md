@@ -83,3 +83,6 @@ Stacks and Linked list understanding using stl (using stl reduces the lines of c
 
 Day 32:
 Implementation of LL and stacks in Dev c++
+
+Day 33:
+Theory part of linked list and stacks
