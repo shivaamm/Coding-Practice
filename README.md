@@ -91,3 +91,6 @@ Theory part of linked list and stacks
 
 Day 34:
 Back to Coding!! Starting with Leetcode questions
+
+Day 35:
+Stacks problem solving question on hackerearth
