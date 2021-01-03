@@ -94,3 +94,4 @@ Back to Coding!! Starting with Leetcode questions
 
 Day 35:
 Stacks problem solving question on hackerearth
+* Solved another tricky question on hackerearth
