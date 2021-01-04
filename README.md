@@ -95,3 +95,6 @@ Back to Coding!! Starting with Leetcode questions
 Day 35:
 Stacks problem solving question on hackerearth
 * Solved another tricky question on hackerearth * Stack game problem partially solved (half test cases passed)
+
+Day 36:
+Solved One question of stacks on leetcode :)
