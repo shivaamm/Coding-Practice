@@ -98,3 +98,6 @@ Stacks problem solving question on hackerearth
 
 Day 36:
 Solved One question of stacks on leetcode :)
+
+Day 37:
+Leetcode question (Stacks topic but solved with arrays)
