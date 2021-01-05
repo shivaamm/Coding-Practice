@@ -101,3 +101,6 @@ Solved One question of stacks on leetcode :)
 
 Day 37:
 Leetcode question (Stacks topic but solved with arrays)
+
+Day 38:
+Leetcode stacks easy tag questions(solved one at night)
