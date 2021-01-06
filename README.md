@@ -107,4 +107,4 @@ Leetcode stacks easy tag questions(solved one at night)
 * Codeforces solved 3 question
 
 Day 39:
-Codeforces question (hulk)
+Codeforces question (hulk) and leetcode stacks question
