@@ -104,3 +104,4 @@ Leetcode question (Stacks topic but solved with arrays)
 
 Day 38:
 Leetcode stacks easy tag questions(solved one at night)
+* Codeforces solved 1 question
