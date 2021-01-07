@@ -110,3 +110,6 @@ Day 39:
 Codeforces question (hulk) and leetcode stacks question
 * First codechef challenge (jan 2021 challenge)
 * Solved 2 contest questions
+
+Day 40:
+Solved 3 questions of div3(1st contest) codechef
