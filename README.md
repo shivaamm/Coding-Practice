@@ -114,3 +114,6 @@ Codeforces question (hulk) and leetcode stacks question
 Day 40:
 Solved 4 questions of div3(1st contest) codechef [Long challenge] 
 * Tried 5th question but failed
+
+Day 41:
+Codechef problems from A2oj ladder (A division problems)
