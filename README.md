@@ -112,4 +112,5 @@ Codeforces question (hulk) and leetcode stacks question
 * Solved 2 contest questions
 
 Day 40:
-Solved 4 questions of div3(1st contest) codechef [Long challenge]
+Solved 4 questions of div3(1st contest) codechef [Long challenge] 
+* Tried 5th question but failed
