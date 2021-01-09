@@ -70,7 +70,7 @@ Day 27:
 Leetcode questions (9 done)(Remove dupliates using unique)  Done 12 questions :)
 
 Day 28:
-Leetcode climbing question, sinlge number(Using XOR ques) learnt new approach [Done 15 questions]
+Leetcode climbing question, single number(Using XOR ques) learnt new approach [Done 15 questions]
 
 Day 29:
 Leetcode 17 questions done. Finally (Done 22) completed 1.32% :)
@@ -118,3 +118,6 @@ Solved 4 questions of div3(1st contest) codechef [Long challenge]
 Day 41:
 Codechef problems from A2oj ladder (A division problems)
 * Participated in codechef challenge (solved one full question)
+
+Day 42:
+Studied Stl Maps 
