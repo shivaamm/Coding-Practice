@@ -120,4 +120,4 @@ Codechef problems from A2oj ladder (A division problems)
 * Participated in codechef challenge (solved one full question)
 
 Day 42:
-Studied Stl Maps 
+Studied Stl Maps + Codeforces virtual contest
