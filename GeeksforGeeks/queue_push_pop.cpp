@@ -1,4 +1,4 @@
-queue<int>_push(int arr[],int n)
+void queue<int>_push(int arr[],int n)
 {
    //return a queue with all elements of arr inserted in it
    queue<int> q;
