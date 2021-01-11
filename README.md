@@ -121,3 +121,6 @@ Codechef problems from A2oj ladder (A division problems)
 
 Day 42:
 Studied Stl Maps + Codeforces virtual contest
+
+Day 43:
+Contest over understood the problem that couldn't solve(used dp approach and 0/1 knapsack problem approach to solve)
