@@ -129,3 +129,6 @@ Contest over understood the problem that couldn't solve(used dp approach and 0/1
 Day 44:
 Leetcode 1st medium question of Queues
 * GFG practice questions
+
+Day 45:
+Codechef past contest and gfg practice questions :)
