@@ -140,3 +140,6 @@ Linked List implementation and practice questions.
 
 Day 47:
 Linked list practice questions and codeforces question
+
+Day 48:
+Insertions and Reversal in singly linked list (C and C++)
