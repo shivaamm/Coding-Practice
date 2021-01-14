@@ -137,3 +137,6 @@ Codechef past contest and gfg practice questions :)
 
 Day 46:
 Linked List implementation and practice questions.
+
+Day 47:
+Linked list practice questions and codeforces question
