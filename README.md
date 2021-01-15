@@ -143,3 +143,4 @@ Linked list practice questions and codeforces question
 
 Day 48:
 Insertions and Reversal in singly linked list (C and C++)
+* Solved Leetcode and gfg questions
