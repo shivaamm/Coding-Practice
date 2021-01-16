@@ -147,3 +147,6 @@ Insertions and Reversal in singly linked list (C and C++)
 
 Day 49:
 Linked list different platform practice questions
+
+Day 50:
+Revision day (arrays, stacks, queues, linked list solved questions) [try pen paper coding]
