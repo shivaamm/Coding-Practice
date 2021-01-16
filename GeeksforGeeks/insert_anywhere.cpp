@@ -11,6 +11,7 @@ data: 75
 Output: 50 75 100
 */
 
+
 // Should return head of the modified linked list
 Node *sortedInsert(struct Node* head, int data) {
    
