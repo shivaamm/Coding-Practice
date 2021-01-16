@@ -32,6 +32,6 @@ Node* deleteMid(Node* head)
          
      }
      temp1->next = temp1->next->next;
-     free(p);
+     free(p);         // for c++ use delete(p)
      return head;
 }
