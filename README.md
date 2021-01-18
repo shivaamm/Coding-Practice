@@ -150,7 +150,7 @@ Linked list different platform practice questions
 
 Day 50:
 Revision day (arrays, stacks, queues, linked list solved questions) [try pen paper coding]
-* [x] Not completed
+* [x] Half done
 
 Day 51:
 Stacks and Queues using linked list and revision of solved questions :)
