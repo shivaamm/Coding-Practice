@@ -154,3 +154,6 @@ Revision day (arrays, stacks, queues, linked list solved questions) [try pen pap
 
 Day 51:
 Stacks and Queues using linked list and revision of solved questions :)
+
+Day 52:
+Notes of linked list with pen paper visualizations to under better(questions solved approaches visuals) :)
