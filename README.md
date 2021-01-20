@@ -158,3 +158,6 @@ Stacks and Queues using linked list and revision of solved questions :)
 Day 52:
 Notes of linked list with pen paper visualizations to under better(questions solved approaches visuals) :)
 * Codechef contest (Couldn't solve any question, will read editorial)
+
+Day 53:
+Linked list gfg questions and notes for future reference
