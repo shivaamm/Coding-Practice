@@ -1,0 +1,17 @@
+https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+Kadane’s Algorithm:
+
+Initialize:
+    max_so_far = 0
+    max_ending_here = 0
+
+Loop for each element of the array
+  (a) max_ending_here = max_ending_here + a[i]
+  (b) if(max_so_far < max_ending_here)
+            max_so_far = max_ending_here
+  (c) if(max_ending_here < 0)
+            max_ending_here = 0
+return max_so_far
+
+however this algo doesn't check the negative integers but to do so we can use max_ending_here=INT_MAX. This way it will work for negative numbers also.
