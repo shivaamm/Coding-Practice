@@ -1,0 +1,20 @@
+BIT- 
+  * Binary numbers
+  * Additions and Subtraction(actually there is no such thing as subtraction in computer) We Use 1's and 2's Compliment to find the addition and subtraction.
+  * Bitwise operators [ &(and), |(or), ^(xor), ~(inverse), >>(right shift or divide by 2), <<(left shift or multiply by 2)]
+  
+  Example questions where to use bit
+  ** Odd Even numbers [if(x%2==0)] we can write it as [a & 1==0] then even, else odd]
+  ** Swap two numbers 
+    We use,  temp=a;
+             a=b;
+             b=temp;
+           and thus we get the elements swapped by using third variable, but using BIT we can do this in more efficient way also we don't have to use the third 
+           element to swap the numbers.
+           
+           a = a ^ b;
+           b = a ^ b;
+           a = a ^ b;
+           
+           now elements will be swapped without using extra variable.
+    
