@@ -1,0 +1,26 @@
+Imp Concepts of bit masking
+* Find ith bit 
+    ** Formula used will be 
+      mask = 1<<i;  // to find mask
+      n & mask;
+      
+* Set ith bit
+    ** find the mask
+    ** use &(and) operation
+
+* Clear ith bit
+    ** find the mask
+    ** use |(or) operation
+
+* Important question
+    * Find number of bits to change to convert a to b
+        ** we use inverse operator on mask
+        mask = ~(1<<i)
+        and now we apply &(and) operation so now our question becomes [ find no of 1's digits in binary]
+            ** to find this we use simple solution approach 
+              ** n & (n-1)  this will be optimised solution as this will give us the time comp of total no of bits in our input,
+                            whereas if we use loop then it will give us O(logn) complexity.
+                            
+                            example - 1000 (8)
+                            its count of 1 is [output=1], so by using the loop it will run 4 times thus gives O(logn)
+                                                          but by using [n & (n-1)] we will get output in 1 time only because it's using and opeartion.
