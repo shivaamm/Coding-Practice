@@ -167,4 +167,4 @@ Day 54:
 Linked list medium level questions, Time Complexity, Bit Manipulations
 
 Day 55:
-Bit Manipulation Algo
+Bit Manipulation Algo, Doubly Linked list(traversal, create, insertions)
