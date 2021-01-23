@@ -168,3 +168,6 @@ Linked list medium level questions, Time Complexity, Bit Manipulations
 
 Day 55:
 Bit Manipulation Algo, Doubly Linked list(traversal, create, insertions)
+
+Day 56:
+Doubly lined list (deletions and reversal)[leetcode medium reversal question is really good]
