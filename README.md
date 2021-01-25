@@ -171,3 +171,6 @@ Bit Manipulation Algo, Doubly Linked list(traversal, create, insertions)
 
 Day 56:
 Doubly lined list (deletions and reversal)[leetcode medium reversal question is really good]
+
+Day 57:
+Strings questions and linked list medium and hard level questions practice :)
