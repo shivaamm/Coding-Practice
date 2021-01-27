@@ -179,4 +179,4 @@ BREAK DAY
 ** STL MAP AND SET, HASHING INTRO
 
 Day 58:
-Cicular Linked list and Operating systems
+Cicular Linked list(insertions,deletions and practice) and Operating systems
