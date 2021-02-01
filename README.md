@@ -181,3 +181,6 @@ BREAK DAY
 Day 58:
 Cicular Linked list(insertions,deletions and practice) and Operating systems
 * reverse and aptitude topic
+
+Day 59:
+Strings leetcode questions and Linked list hard questions
