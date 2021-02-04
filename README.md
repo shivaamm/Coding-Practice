@@ -184,3 +184,6 @@ Cicular Linked list(insertions,deletions and practice) and Operating systems
 
 Day 59:
 Strings leetcode questions and Linked list hard questions
+
+Day 60:
+Maps, Unordered maps, hashing practice questions :)
