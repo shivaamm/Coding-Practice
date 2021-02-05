@@ -187,3 +187,6 @@ Strings leetcode questions and Linked list hard questions
 
 Day 60:
 Maps, Unordered maps, hashing practice questions :)
+
+Day 61:
+Codechef challenge, Maps, Leetcode question(feb)
