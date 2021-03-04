@@ -18,6 +18,21 @@ public:
         
         return a;
         
+  OR
+      
+      ListNode *a = headA, *b = headB;
+        
+        while (a || b) {
+            if (a == b) return a;
+            
+            if (a) a = a->next;
+            else a = headB;
+            
+            if (b) b = b->next;
+            else b = headA;
+        }
+        return NULL;
+        
         // ListNode *p=headA;
         // ListNode *q=headB;
         // int c1=0,c2=0;
