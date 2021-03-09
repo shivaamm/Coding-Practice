@@ -17,5 +17,12 @@ public:
             }
         }
         return ans;
+        
+        // int split = 0, count = 0;
+        // for(auto c : s) {
+        //     split += (c == 'R') ? 1 : -1;
+        //     if(split == 0) count++;
+        // }
+        // return count;
     }
 };
