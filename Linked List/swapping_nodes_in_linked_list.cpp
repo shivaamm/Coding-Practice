@@ -38,3 +38,41 @@ public:
         return head;
     }
 };
+
+
+***************************** optimised code ************************
+ONE PASS
+We traverse the list until we reach the kth node.
+Then we set "kth" to that node to remember it,
+As ptr2 points to head
+now start traversing the list, while we move both ptr1 and ptr2.
+When ptr1 reaches the end it has covered (n-k) distance
+so ptr2 is on the (n-k)th node.
+Now we swap "kth" and "ptr2" and we're done!
+
+ ListNode *ptr1 = head, *ptr2 = head, *kth = NULL;
+        while (--k)
+            ptr1 = ptr1->next;
+        
+        kth = ptr1;
+        ptr1 = ptr1->next;
+        
+        while (ptr1) {
+            ptr1 = ptr1->next;
+            ptr2 = ptr2->next;
+        }
+        swap(ptr2->val, kth->val);
+        return head;
+
+*******************using vectors**************************************
+
+ ListNode* swapNodes(ListNode* head, int k) {
+         vector<ListNode*> v;
+        while(head){
+            v.push_back(head);
+            head = head->next;
+        }
+        swap(v[k-1]->val, v[v.size()-k]->val);
+        return v[0];
+    }
+	
