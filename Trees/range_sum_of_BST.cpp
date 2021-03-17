@@ -16,3 +16,14 @@ public:
         
     }
 };
+
+************************** OR ****************************
+
+int rangeSumBST(TreeNode* root, int low, int high) {
+        if(root==NULL)
+            return 0;
+       int val =0;
+        if(root->val>=low && root->val<=high)
+            val =root->val;
+       
+        return  rangeSumBST(root->left, low,  high) + val +  rangeSumBST(root->right,  low, high);
