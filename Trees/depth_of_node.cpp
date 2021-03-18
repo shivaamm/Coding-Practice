@@ -1,20 +1,28 @@
 // A recursive function to find depth of the deepest odd level leaf
+
+bool checkleaf(Node *root) 
+{ 
+    return (root->left == NULL && root->right == NULL); 
+}
+
 int depthOfOddLeafUtil(struct Node *root,int level)
 {
-    // if(root==NULL)
-    // {
-    //     return 0;
-    // }
-    // if(root->left==NULL && root->right==NULL)
-    // {
-    //     if(level%2!=0)
-    //         return level;
-    //     else
-    //         return (level-1);
-    // }
+    
+    if ( root == NULL) 
+        return 0; 
+ 
+    if (level % 2 != 0 && checkleaf(root)) 
+        return level; 
 
-    // return max(depthOfOddLeafUtil(root->left,level+1),depthOfOddLeafUtil(root->right,level+1));
+    return max(depthOfOddLeafUtil(root->left,level+1),depthOfOddLeafUtil(root->right,level+1));
+    
+}
 
+
+*********************************************************
+
+int depthOfOddLeafUtil(struct Node *root,int level)
+{
     if (root == NULL) 
         return 0; 
   
