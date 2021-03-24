@@ -1,5 +1,7 @@
 https://www.techiedelight.com/find-maximum-width-given-binary-tree/
 
+Recursive approach
+
 #include <iostream>
 #include <unordered_map>
 using namespace std;
@@ -68,4 +70,3 @@ int main()
  
     return 0;
 }
-
