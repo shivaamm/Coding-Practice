@@ -31,3 +31,25 @@ public:
         }
     }
 };
+
+
+****************** faster program **********************
+class Solution {
+public:
+    bool isPalindrome(string s) {
+        string S="";
+        for(int i=0; i<s.size(); i++){
+            if(s[i]>='A' && s[i]<='Z'){
+                S+=tolower(s[i]);
+            } else if (s[i]>='a' && s[i]<='z'){
+                S+=s[i];
+            } else if (s[i]>='0' && s[i]<='9'){
+                S+=s[i];
+            }
+        }
+        for(int i=0; i<S.size()/2; i++){
+            if(S[i]!=S[S.size()-1-i]) return false;
+        }
+        return true;
+    }
+};
