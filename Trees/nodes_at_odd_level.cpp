@@ -21,6 +21,17 @@ void printOddNodes(Node *root)
 
 ****************************************************
 
+void odd(Node *root, bool ifodd = true){
+   if (root == NULL)
+      return;
+   if (ifodd)
+      cout << root->data << " " ;
+   odd(root->left, !ifodd);
+   odd(root->right, !ifodd);
+}
+
+****************************************************
+
 // void printOddNodes(Node *root)
 // {
 //     struct Node *temp[1000];
