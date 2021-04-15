@@ -1,3 +1,5 @@
+## https://www.geeksforgeeks.org/array-product-c-using-stl/
+
 class Solution {
 public:
     int arraySign(vector<int>& v) {
