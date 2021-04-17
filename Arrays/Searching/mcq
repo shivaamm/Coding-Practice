@@ -1,0 +1,20 @@
+https://www.geeksforgeeks.org/algorithms-gq/searching-gq/
+
+
+Which of the following is correct recurrence for worst case of Binary Search?
+A
+T(n) = 2T(n/2) + O(1) and T(1) = T(0) = O(1)
+B
+T(n) = T(n-1) + O(1) and T(1) = T(0) = O(1)
+C
+T(n) = T(n/2) + O(1) and T(1) = T(0) = O(1)
+D
+T(n) = T(n-2) + O(1) and T(1) = T(0) = O(1)
+
+Answer - C
+
+
+Question 2 Explanation: 
+Following is typical implementation of Binary Search. In Binary Search, we first compare the given element x with middle of the array. 
+If x matches with middle element, then we return middle index. 
+Otherwise, we either recur for left half of array or right half of array. So recurrence is T(n) = T(n/2) + O(1)
