@@ -17,6 +17,19 @@ should be changed to
            /   \      /  \ 
          0      0    0    0
          
+/////////////////////////////////////////////////////////////
+  FUNCTION toSumTree (node)
+    1.  Check base case
+        IF (node==NULL)
+            Return 0;
+    2.  Store old value of node
+    3.  Update node value to left subtree sum + right 
+        subtree sum. Use recursion to find subtree sums
+    4.  Return old node value + current node value for 
+        upper levels ( towards root)
+END FUNCTION
+
+*************************************************************
 
 int toSumTree(node *Node) 
 { 
