@@ -30,3 +30,17 @@ public:
         return true;
     }
 };
+
+********************************************************************************
+
+	//  vector<int> road(1001,0);
+        // int i,n=trips.size();
+        // for(i=0;i<n;i++){
+        //     road[trips[i][1]]+=trips[i][0];
+        //     road[trips[i][2]]-=trips[i][0];
+        // }
+        // for(i=1;i<1001;i++){
+        //     road[i]+=road[i-1];
+        //     if(road[i]>capacity)    return false;
+        // }
+        // return true;
