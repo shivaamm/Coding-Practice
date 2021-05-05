@@ -18,10 +18,20 @@ int minDelete(int arr[], int n)
 	for (int i = 0; i < n; i++)
 		freq[arr[i]]++;
 
-	// Find maximum frequency among all frequencies.
+[[  	// Find maximum frequency among all frequencies.
+	
+	**************************************************************************************
 	int max_freq = INT_MIN;
 	for (auto itr = freq.begin(); itr != freq.end(); itr++)
 		max_freq = max(max_freq, itr->second);
+	
+	*********************************** OR using this way also we can find max count ***************************************************
+	
+	    int max_count = 0;
+	    for (auto i : hash)
+		if (max_count < i.second)
+		    max_count = i.second;	
+	******************************************************************************       ]]
 
 	// To minimize delete operations, we remove all
 	// elements but the most frequent element.
