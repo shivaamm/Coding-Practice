@@ -51,3 +51,22 @@ fast is not a palindrome
 Case 3 :
 Enter the string : 121                                                                                                         
 121 is a palindrome
+
+
+*************************************************
+
+
+	int isPlaindrome(string str)
+	{
+	    string rev=str;
+	    reverse(rev.begin(),rev.end());
+	    if(str==rev)
+	    {
+	        return 1;
+	    }
+	    return 0;
+	}
+
+************************************************
+
+
