@@ -60,3 +60,43 @@ vector<int> find(int arr[], int n , int x )
     // ans.push_back(high-1);
     // return ans;
 }
+
+
+
+
+*********************************************************************************
+
+int bs(int arr[],int l,int h,int tar,bool uff)
+    {
+        int res=-1;
+        while(l<=h)
+        {
+            int mid=(l+h)/2;
+            
+            if(arr[mid]==tar)
+            {
+                res=mid;
+                if(uff)
+                    l=mid+1;
+                else
+                    h=mid-1;
+            }
+            else if(arr[mid]>tar)
+                h=mid-1;
+            else
+                l=mid+1;
+        }
+        return res;
+    }
+
+
+vector<int> find(int arr[], int n , int x )
+{
+      
+        vector<int> res(2);
+       
+        res[0]=bs(arr,0,n-1,x,false);
+        res[1]=bs(arr,0,n-1,x,true);
+        
+        return res;// code here
+}
