@@ -3,7 +3,7 @@
 #### Python-Programs in .py files
 Learning python by practicing programs in spyder
 
-Soon DS questions will be added to practice.
+Find all topic wise questions in different folders:)
 
 # 100DaysOfCode 
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
