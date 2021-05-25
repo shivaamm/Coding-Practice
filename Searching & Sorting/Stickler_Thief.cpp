@@ -1,4 +1,5 @@
 typedef long long int ll;
+
 class Solution
 {
     public:
@@ -20,3 +21,10 @@ class Solution
         return dp[n-1];
     }
 };
+
+
+Input:
+n = 6
+a[] = {5,5,10,100,10,5}
+Output: 110
+Explanation: 5+100+5=110
