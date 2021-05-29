@@ -1,11 +1,16 @@
-# C++ Language
+# DSA using C++ Language
 
-#### Python-Programs in .py files
-Learning python by practicing programs in spyder
+### This repository contains all the coding problems solved by me.
 
-Find all topic wise questions in different folders:)
+* Find all topic wise questions in different folders:)
+* From Basic to Hard level questions under each topic
+* Problems are from Leetcode and Geeksforgeeks website.
+* Separate folders for CP (Codechef and Codeforces).. All Solutions are not optimised 
+* Possibility that many questions repeat in same folder or under different topic.
+* Multiple Solutions are given for problems (eg. Some problems can be solved using different data-strutures, so multiple solutions are there, maps, sets, brute force, optimised code, etc)
+* ATTENTION!! This repo is not for only Important questions. IMP QUES list will be added later on once all topics are covered.
 
-# 100DaysOfCode 
+### 100DaysOfCode 
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
 Day 1: 4 codechef questions completed.
@@ -89,7 +94,7 @@ Implementation of LL and stacks in Dev c++
 Day 33:
 Theory part of linked list and stacks
 
-## END SEM BREAK
+### END SEM BREAK
 
 Day 34:
 Back to Coding!! Starting with Leetcode questions
@@ -200,8 +205,10 @@ Trees geeksforgeeks questions practice :)
 Day 64:
 Trees leetcode and gfg questions and notes visuals for recursion :)
 
+Day 65:
 TREES and LINKED LIST REVISION AND PRACTICE QUESTIONS (10 DAYS DRILL)
 
-## DS Algo Foundation GFG Course
+## Preparation for placement begins...Stoped counting days (Done with Basics)
 
-# 450 Sheet from today
+### DS Algo Foundation GFG Course
+
