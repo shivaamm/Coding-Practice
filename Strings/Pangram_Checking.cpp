@@ -21,7 +21,7 @@ class Solution
       *******************************************************
       
         // if(str.size()<26)return false;
-        // int count[CHAR]={0};
+        // int count[CHAR]={0};            // const int CHAR=256; (add this line to declare char in global) otherwise it will throw error.
         // for(char c:str){
         //     if(isalpha(c)){
         //         count[tolower(c)]++;
