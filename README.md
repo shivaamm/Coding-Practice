@@ -37,7 +37,10 @@
 | Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
 | Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
 
+
 ### 100DaysOfCode 
+<details>
+<summary>Summary (click here):</summary>
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
 Day 1: 4 codechef questions completed.
@@ -234,8 +237,10 @@ Trees leetcode and gfg questions and notes visuals for recursion :)
 
 Day 65:
 TREES and LINKED LIST REVISION AND PRACTICE QUESTIONS (10 DAYS DRILL)
+</details>
 
 ## Preparation for placement begins...Stoped counting days (Done with Basics)
+
 
 ### DS Algo Foundation GFG Course
 
