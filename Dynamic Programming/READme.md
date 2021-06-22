@@ -4,3 +4,7 @@
 
 0/1 Knapsack Problem
 * Subset Sum Problem
+* Equal Sum Partition
+* Count of Subset Sum
+* Minimum Subset Sum Difference
+* Target Sum
