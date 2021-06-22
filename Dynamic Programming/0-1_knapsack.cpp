@@ -1,3 +1,5 @@
+// TIME COMPLEXITY O(2n)
+
 /* A Naive recursive implementation of
 0-1 Knapsack problem */
 #include <bits/stdc++.h>
