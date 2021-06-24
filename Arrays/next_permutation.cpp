@@ -1,3 +1,5 @@
+// reference - https://leetcode.com/problems/next-permutation/discuss/1241286/C%2B%2B-oror-simple-to-understand
+
 // find next permutation
 void nextPermutation(vector<int> &nums)
 {
