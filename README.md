@@ -239,7 +239,7 @@ Day 65:
 TREES and LINKED LIST REVISION AND PRACTICE QUESTIONS (10 DAYS DRILL)
 </details>
 
-### Preparation for placement begins...Stoped counting days (Done with Basics)
+### Preparation for placement begins...Stopped counting days (Done with Basics)
 
 
 ### DS Algo Foundation GFG Course
