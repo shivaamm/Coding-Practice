@@ -1,4 +1,4 @@
-# DSA using C++ Language
+# DSA using C++ Language  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivaamm%2FCoding-Practice&count_bg=%23443DC8&title_bg=%23272753&icon=codersrank.svg&icon_color=%23F1F1F1&title=hits&edge_flat=false"/></a>
 
 <img align="right" width="45%" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" height="380">
 
