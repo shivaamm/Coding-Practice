@@ -19,8 +19,8 @@ public:
         if (root == NULL)    ////////////////////////  Base Condition
             return 0;
          
-        int l = Helper(root->left);         /////////////////////  Hypothesis
-        int r = Helper(root->right);
+        int l = solve(root->left);         /////////////////////  Hypothesis
+        int r = solve(root->right);
         
         int temp = max(root->val + max(l, r), root->val);          /////// Induction
         int ans = max(temp, l + r + root->val);
