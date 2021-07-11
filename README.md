@@ -237,6 +237,11 @@ Trees leetcode and gfg questions and notes visuals for recursion :)
 
 Day 65:
 TREES and LINKED LIST REVISION AND PRACTICE QUESTIONS (10 DAYS DRILL)
+  
+  \
+ Range Queries Problems
+  \
+  
 </details>
 
 ### Preparation for placement begins...Stopped counting days (Done with Basics)
