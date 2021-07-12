@@ -18,4 +18,23 @@ int maxSubarraySum(int arr[], int n){
     }
     return msf;
     
+    
+    /////////////////////////////////////////////////////////   for gfg ///////////////////////
+    
+    
+        int max_global,max_current;
+        max_global=max_current=arr[0];
+        
+        for(int i=1; i<n; i++){
+            
+            max_current = max(arr[i], max_current+arr[i]);
+            
+            if(max_current>max_global){
+                max_global = max_current;
+            }
+        }
+        return max_global;
+    
+    
+    
 }
