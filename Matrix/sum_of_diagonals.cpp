@@ -7,7 +7,7 @@ int sumDiagonal(int n, int M[][n])
         { 
   
               if (i == j) 
-                sum += M[i][j]; 
+                sum += M[i][j];   // add
  
         }
     }
