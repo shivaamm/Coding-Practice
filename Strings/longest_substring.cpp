@@ -28,8 +28,7 @@ int longestSubstrDitinctChars (string s)
  
         // Updating the last seen value of the character
         seen[s[end]] = end;
-        maximum_length = max(maximum_length,
-                             end - start + 1);
+        maximum_length = max(maximum_length, end - start + 1);
     }
     return maximum_length;
 }
