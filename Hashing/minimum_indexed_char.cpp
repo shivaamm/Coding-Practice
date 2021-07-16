@@ -40,6 +40,23 @@ class Solution{
         }
     	return "$";
     	
+		
+		********************************************************///////////////////////////////////////
+			
+		class Solution
+		{
+		  public:
+		    //Function to find the minimum indexed character.
+		    int minIndexChar(string str, string patt)
+		    {
+			 for(int i=0; i<str.size(); i++) {
+				if(patt.find(str[i]) != string::npos)  {
+				    return i;
+				}
+			    }
+				return -1;
+		    }
+		};
     	
 	        
 	}
