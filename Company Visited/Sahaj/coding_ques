@@ -1,1 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
 
+int main(){
+    int n;cin>>n;
+    vector<string>vec;
+    for(int i = 0 ; i < n ; i++){
+        string s;cin>>s;
+        vec.push_back(s);
+    }
+    int flag = 0;
+    string harry;cin>>harry;
+    string temp = "";
+    for(int i = 0 ; i < harry.size() ; i++){
+        if(temp == ""){
+            flag = 0;
+        }
+        temp += harry[i];
+        if(find(vec.begin(),vec.end(),temp) != vec.end()){
+            temp = "";flag = 1;
+        }
+    }
+    if(flag == 1){
+        cout<<"Harry\n";
+    }
+    else{
+        cout<<"Voldemort\n";
+    }
+}
