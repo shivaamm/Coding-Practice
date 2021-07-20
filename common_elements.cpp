@@ -39,19 +39,19 @@ class Solution{
         *************************************************************************************
         
     
-        // int a[100001] = {0};
-        // vector<int> ans;
-        // for(int i=0; i<v1.size(); i++){
-        //     a[v1[i]]++;
+        int a[100001] = {0};
+        vector<int> ans;
+        for(int i=0; i<v1.size(); i++){
+            a[v1[i]]++;
             
-        // }
-        // for(int i=0; i<v2.size();i++){
-        //     if(a[v2[i]]> 0){
-        //         ans.push_back(v2[i]);
-        //         a[v2[i]]--;
-        //     }
-        // }
-        // sort(ans.begin(), ans.end());
-        // return ans;
+        }
+        for(int i=0; i<v2.size();i++){
+            if(a[v2[i]]> 0){
+                ans.push_back(v2[i]);
+                a[v2[i]]--;
+            }
+        }
+        sort(ans.begin(), ans.end());
+        return ans;
     }
 };
