@@ -19,21 +19,21 @@ class Solution{
         *************************************************************************************
         
         
-        // unordered_map<int,int>mp;
-        // for(int i=0;i<v1.size();i++)
-        //     mp[v1[i]]++;
-        // vector<int>v;
-        // for(int i=0;i<v2.size();i++)
-        // {
-        //     if(mp.find(v2[i])!=mp.end()){
-        //         v.push_back(v2[i]);
-        //         mp[v2[i]]--;
-        //         if(mp[v2[i]]==0)
-        //             mp.erase(v2[i]);
-        //     }
-        // }
-        // sort(v.begin(),v.end());
-        // return v;
+        unordered_map<int,int>mp;
+        for(int i=0;i<v1.size();i++)
+            mp[v1[i]]++;
+        vector<int>v;
+        for(int i=0;i<v2.size();i++)
+        {
+            if(mp.find(v2[i])!=mp.end()){
+                v.push_back(v2[i]);
+                mp[v2[i]]--;
+                if(mp[v2[i]]==0)
+                    mp.erase(v2[i]);
+            }
+        }
+        sort(v.begin(),v.end());
+        return v;
     
     
         *************************************************************************************
