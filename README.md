@@ -2,7 +2,7 @@
 
 <img align="right" width="45%" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" height="380">
 
-### This repository contains all the coding problems solved by me.
+### This repository contains all the Coding problems solved by me.
 
 * Find all topic wise questions in different folders:)
 * From Basic to Hard level questions under each topic
