@@ -43,7 +43,7 @@
 <summary>Summary (click here):</summary>
 This will be the repository for C++ topic wise questions, practice questions and DSA :)
 
-Day 1: 4 codechef questions completed.
+Day 1: 4 Codechef questions completed.
 
 Day 2: Array 
 
