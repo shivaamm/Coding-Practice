@@ -160,12 +160,12 @@
 ##
 #print(40%15)
 
-n=int(input())
-lst=[]
-for i in range(0,n):
-    c=int(input())
-    lst.append(c)
-print("********")
-lst.sort()
-for i in lst:
-    print(i)
+# n=int(input())
+# lst=[]
+# for i in range(0,n):
+#     c=int(input())
+#     lst.append(c)
+# print("********")
+# lst.sort()
+# for i in lst:
+#     print(i)
