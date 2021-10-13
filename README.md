@@ -10,7 +10,7 @@
 * Separate folders for CP (Codechef and Codeforces).. All Solutions are not optimised 
 * Possibility that many questions repeat in same folder or under different topic.
 * Multiple Solutions are given for problems (eg. Some problems can be solved using different data-strutures, so multiple solutions are there, maps, sets, brute force, optimised code, etc)
-* ATTENTION!! This repository is not for only Important questions. IMP QUES list will be added later on once all topics are covered.
+* ATTENTION!! This repository is not for only Important questions.
 
 ## Big O Notation
 ### Data Structures in Big O Notation
