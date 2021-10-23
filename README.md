@@ -259,4 +259,4 @@ Company wise Questions
 DATE - SAT AUG 28 PLACED AT TAVANT TECHNOLOGIES
 
 Applying for Off-campus opportunities
-
+Off campus resume updated
