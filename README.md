@@ -257,7 +257,7 @@ CS Core fundamentals
 Aptitude
 Company wise Questions
 
-DATE - SAT AUG 28 PLACED AT TAVANT TECHNOLOGIES
+DATE - SAT AUG 28 PLACED (Now having 2 offers)
 
 Applying for Off-campus opportunities
 Off campus resume updated
