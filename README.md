@@ -257,6 +257,8 @@ CS Core fundamentals
 Aptitude
 Company wise Questions
 
+July 1st Companies started coming
+
 DATE - SAT AUG 28 PLACED (Now having 2 offers)
 
 Applying for Off-campus opportunities
