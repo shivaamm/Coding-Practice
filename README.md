@@ -261,3 +261,5 @@ DATE - SAT AUG 28 PLACED (Now having 2 offers)
 
 Applying for Off-campus opportunities
 Off campus resume updated
+
+Onto new learnings
