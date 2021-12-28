@@ -14,3 +14,7 @@ public:
 
     }
 };
+
+
+// used catalan algo/formula
+// it can be used to solve so many questions like paranthesis, etc
