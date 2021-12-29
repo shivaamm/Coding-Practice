@@ -266,4 +266,5 @@ Applying for Off-campus opportunities
 Off campus resume updated - 
 * Done with first interview at Google for SDE role
 * Another upcoming interview at Google
+
 Onto new learnings
