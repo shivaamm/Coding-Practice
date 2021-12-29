@@ -263,6 +263,7 @@ July 1st Companies started coming
 DATE - SAT AUG 28 PLACED (Now having 2 offers)
 
 Applying for Off-campus opportunities
-Off campus resume updated
-
+Off campus resume updated - 
+* Done with first interview at Google for SDE role
+* Another upcoming interview at Google
 Onto new learnings
