@@ -270,3 +270,4 @@ Off campus resume updated -
 Onto new learnings
 
 ## Welcome Year 2022
+* Going to empty my current To-Do list one by one.
