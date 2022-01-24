@@ -1,6 +1,16 @@
 class Solution {
 public:
     bool detectCapitalUse(string word) {
+        
+        
+//         int sum=0,n=word.length();   //sum --> count of 'a' to 'z'
+//         for(int i=1;i<n;++i) if(word[i]>=97) ++sum;
+//         return sum==n-1 || (sum==0 && word[0]<=90);
+        
+        
+        
+        
+        
         int count=0;
         for(int i=0;i<word.size();i++){
             if(word[i]>='A' && word[i]<='Z'){
