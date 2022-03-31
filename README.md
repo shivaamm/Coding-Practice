@@ -14,7 +14,7 @@
 * Press "CTRL + K" for quick find using command pallete.
  
 ## Cheatsheet link - https://www.bigocheatsheet.com/
-## Big O Notation
+## Big O Notation Complexity
 ### Data Structures in Big O Notation
 | Data Structure | Add/Insert | Remove/Delete | Access/Get | Search/Contains | Space Complexity |
 | --- | --- | --- | --- | --- | --- |
