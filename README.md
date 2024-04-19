@@ -12,7 +12,7 @@
 * Multiple Solutions are given for problems (eg. Some problems can be solved using different data-strutures, so multiple solutions are there, maps, sets, brute force, optimised code, etc)
 * ATTENTION!! This repository is not for Important questions.
 * Press "CTRL + K" for quick find using command pallete.
-  
+
  
 ## Cheatsheet link - https://www.bigocheatsheet.com/
 ## Big O Notation Complexity
