@@ -11,7 +11,7 @@
 * Possibility that many questions repeat in same folder or under different topic.
 * Multiple Solutions are given for problems (eg. Some problems can be solved using different data-strutures, so multiple solutions are there, maps, sets, brute force, optimised code, etc)
 * ATTENTION!! This repository is not for Important questions.
-* Press "CTRL + K" for quick find using command pallete.
+* Press "CTRL + K" for quick find using the command palette.
 
  
 ## Cheatsheet link - https://www.bigocheatsheet.com/
@@ -32,7 +32,7 @@
 | Binary Min Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 | Binary Max Heap | ```O(log n)``` | ```O(log n)``` | ```O(1)``` | ```O(n)``` | ```O(n)``` |
 
-### Sorting Algorithms in Big O Notiation
+### Sorting Algorithms in Big O Notation
 | Sort Algorithm | Best | Average | Worst | Space Complexity |
 | --- | --- | --- | --- | --- |
 | Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
