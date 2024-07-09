@@ -38,7 +38,7 @@
 | Selection Sort | ```O(n^2)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Insertion Sort | ```O(n)``` | ```O(n^2)``` | ```O(n^2)``` | ```O(1)``` |
 | Quick Sort | ```O(log n)``` | ```O(log n)``` | ```O(n^2)``` | ```O(log n)``` |
-| Merge Sort | ```O(log n)``` | ```O(log n)``` | ```O(log n)``` | ```O(n)``` |
+| Merge Sort | ```O(nlog n)``` | ```O(nlog n)``` | ```O(nlog n)``` | ```O(n)``` |
 
 ## ERRORS
 ![image](https://user-images.githubusercontent.com/59584173/131363947-11567c33-6e0e-42d7-8add-e13da66f4abc.png)
